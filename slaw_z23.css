@@ -1,0 +1,32 @@
+p#pogrubienie_slawski {
+font-size: 32px;
+color: rgb(145, 90, 206);
+ }
+
+p#pochylona_slawski {
+font-size: 37pt;
+color: rgb(245, 190, 106);
+ }
+ 
+ p#index_gorny_slawski {
+font-size: 1.2cm;
+color: rgb(165, 140, 26);
+ }
+ 
+ p#index_dolny_slawski {
+font-size: 1.9cm;
+color: rgb(25%, 94%, 89%);
+ }
+ 
+ p#mono_slawski {
+font-size: 42px;
+color: rgb(37, 220, 106);
+ }
+ 
+ p#powiekszenie_slawski {
+color: rgb(95, 60, 156);
+ }
+ 
+ p#pomniejszenie_slawski {
+color: rgb(77%, 63%, 22%);
+ }
